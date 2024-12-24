@@ -1,0 +1,1972 @@
+{
+"MATA_KULIAH":[
+ {
+  "KODE_MATKUL": "CSGE602012",
+  "NAMA": "Aljabar Linier",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCM603117",
+  "NAMA": "Analisis Numerik",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE602070",
+  "NAMA": "Basis Data",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSGE601020",
+  "NAMA": "Dasar-Dasar Pemrograman 1",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSGE601021",
+  "NAMA": "Dasar-Dasar Pemrograman 2",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM603142",
+  "NAMA": "Desain dan Analisis Algoritma",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM603154",
+  "NAMA": "Jaringan Komputer",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE601012",
+  "NAMA": "Kalkulus 1",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCM601213",
+  "NAMA": "Kalkulus 2",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE603130",
+  "NAMA": "Kecerdasan Artifisial dan Sains Data Dasar",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "NAMA": "Kerja Praktik",
+  "SKS": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE614093",
+  "NAMA": "Komputer & Masyarakat",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "UIGE600004",
+  "NAMA": "Mata Kuliah Pengembangan Kepribadian (MPK) Agama",
+  "SKS": 2
+ },
+ {
+  "KODE_MATKUL": "UIGE600003",
+  "NAMA": "Mata Kuliah Pengembangan Kepribadian (MPK) Bahasa Inggris",
+  "SKS": 2
+ },
+ {
+  "KODE_MATKUL": "UIGE600007",
+  "NAMA": "Mata Kuliah Pengembangan Kepribadian (MPK) Terintegrasi",
+  "SKS": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE601010",
+  "NAMA": "Matematika Diskret 1",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE601011",
+  "NAMA": "Matematika Diskret 2",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE603091",
+  "NAMA": "Metodologi Penelitian dan Penulisan Ilmiah",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE602022",
+  "NAMA": "Pemrograman Berbasis Platform",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM602223",
+  "NAMA": "Pemrograman Lanjut",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSGE602023",
+  "NAMA": "Pengantar Keamanan Perangkat Lunak",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCM601252",
+  "NAMA": "Pengantar Organisasi Komputer",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCM601150",
+  "NAMA": "Pengantar Sistem Digital",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "NAMA": "Proyek Perangkat Lunak",
+  "SKS": 6
+ },
+ {
+  "KODE_MATKUL": "CSCM603125",
+  "NAMA": "Rekayasa Perangkat Lunak",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE602024",
+  "NAMA": "Sistem Interaksi",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCM602055",
+  "NAMA": "Sistem Operasi",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM602013",
+  "NAMA": "Statistika dan Probabilitas",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE602040",
+  "NAMA": "Struktur Data dan Algoritma",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM602241",
+  "NAMA": "Teori Bahasa & Automata",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "NAMA": "Tugas Akhir Individu",
+  "SKS": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "NAMA": "Tugas Akhir Proyek Kelompok",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSIE604274",
+  "NAMA": "Administrasi Sistem",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604271",
+  "NAMA": "Arsitektur Aplikasi Web",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604174",
+  "NAMA": "Basis Data Lanjut",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604230",
+  "NAMA": "Bioinformatika",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604133",
+  "NAMA": "Computer Vision",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604038",
+  "NAMA": "Deep Learning",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604258",
+  "NAMA": "Ethical Hacking",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604156",
+  "NAMA": "Forensik Digital",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604021",
+  "NAMA": "Game Development",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604045",
+  "NAMA": "Geometri Komputasional",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604131",
+  "NAMA": "Graf Pengetahuan",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604078",
+  "NAMA": "Internet of Things",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604172",
+  "NAMA": "Komputasi Awan",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604243",
+  "NAMA": "Kriptografi dan Keamanan Informasi",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604235",
+  "NAMA": "Pemelajaran Mesin",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604123",
+  "NAMA": "Pemrograman Fungsional",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604226",
+  "NAMA": "Pemrograman Kompetitif",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604222",
+  "NAMA": "Pemrograman Logika",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604229",
+  "NAMA": "Pemrograman Paralel",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604227",
+  "NAMA": "Pemrograman Sistem",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604032",
+  "NAMA": "Pemrosesan Bahasa Lisan",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604037",
+  "NAMA": "Penambangan Data",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604183",
+  "NAMA": "Pengajaran Berbantuan Komputer",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604031",
+  "NAMA": "Pengolahan Bahasa Manusia",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604126",
+  "NAMA": "Penjaminan Mutu Perangkat Lunak",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604212",
+  "NAMA": "Persamaan Differensial",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604225",
+  "NAMA": "Praktikum Pemrograman Kompetitif",
+  "SKS": 1
+ },
+ {
+  "KODE_MATKUL": "CSCE604111",
+  "NAMA": "Simulasi dan Pemodelan",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604254",
+  "NAMA": "Sistem Terdistribusi",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604036",
+  "NAMA": "Representasi Pengetahuan dan Penalaran",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604232",
+  "NAMA": "Robotika",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604151",
+  "NAMA": "Sistem Tertanam",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604028",
+  "NAMA": "Software Product Line Engineering",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSIE604290",
+  "NAMA": "Technopreneurship",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604128",
+  "NAMA": "Teknik Kompilator",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604179",
+  "NAMA": "Teknologi Mobile",
+  "SKS": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604135",
+  "NAMA": "Temu-balik Informasi",
+  "SKS": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604029",
+  "NAMA": "Topik Khusus Ilmu Komputer",
+  "SKS": 3
+ }
+],
+"PRASYARAT":[
+ {
+  "KODE_MATKUL": "CSCM603117",
+  "KODE_PRASYARAT": "CSGE602012"
+ },
+ {
+  "KODE_MATKUL": "CSCM603117",
+  "KODE_PRASYARAT": "CSCM601213"
+ },
+ {
+  "KODE_MATKUL": "CSGE602070",
+  "KODE_PRASYARAT": "CSGE601021"
+ },
+ {
+  "KODE_MATKUL": "CSGE601021",
+  "KODE_PRASYARAT": "CSGE601020"
+ },
+ {
+  "KODE_MATKUL": "CSCM603142",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSCM603154",
+  "KODE_PRASYARAT": "CSGE601020"
+ },
+ {
+  "KODE_MATKUL": "CSCM603154",
+  "KODE_PRASYARAT": "CSCM602055"
+ },
+ {
+  "KODE_MATKUL": "CSCM601213",
+  "KODE_PRASYARAT": "CSGE601012"
+ },
+ {
+  "KODE_MATKUL": "CSGE603130",
+  "KODE_PRASYARAT": "CSCM602013"
+ },
+ {
+  "KODE_MATKUL": "CSGE603130",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSGE603130",
+  "KODE_PRASYARAT": "CSGE602012"
+ },
+ {
+  "KODE_MATKUL": "CSGE602022",
+  "KODE_PRASYARAT": "CSGE601020"
+ },
+ {
+  "KODE_MATKUL": "CSCM602223",
+  "KODE_PRASYARAT": "CSGE601021"
+ },
+ {
+  "KODE_MATKUL": "CSCM602223",
+  "KODE_PRASYARAT": "CSGE602022"
+ },
+ {
+  "KODE_MATKUL": "CSGE602023",
+  "KODE_PRASYARAT": "CSGE601021"
+ },
+ {
+  "KODE_MATKUL": "CSCM601252",
+  "KODE_PRASYARAT": "CSCM601150"
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "KODE_PRASYARAT": "CSCM603125"
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "KODE_PRASYARAT": "CSGE602070"
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "KODE_PRASYARAT": "CSCM602223"
+ },
+ {
+  "KODE_MATKUL": "CSCM603125",
+  "KODE_PRASYARAT": "CSGE601021"
+ },
+ {
+  "KODE_MATKUL": "CSGE602024",
+  "KODE_PRASYARAT": "CSGE602022"
+ },
+ {
+  "KODE_MATKUL": "CSCM602055",
+  "KODE_PRASYARAT": "CSCM601252"
+ },
+ {
+  "KODE_MATKUL": "CSCM602013",
+  "KODE_PRASYARAT": "CSGE601012"
+ },
+ {
+  "KODE_MATKUL": "CSCM602013",
+  "KODE_PRASYARAT": "CSGE601010"
+ },
+ {
+  "KODE_MATKUL": "CSGE602040",
+  "KODE_PRASYARAT": "CSGE601020"
+ },
+ {
+  "KODE_MATKUL": "CSCM602241",
+  "KODE_PRASYARAT": "CSGE601010"
+ },
+ {
+  "KODE_MATKUL": "CSCM602241",
+  "KODE_PRASYARAT": "CSGE601011"
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "KODE_PRASYARAT": "CSGE603091"
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "KODE_PRASYARAT": "CSGE603091"
+ },
+ {
+  "KODE_MATKUL": "CSIE604274",
+  "KODE_PRASYARAT": "CSCM603154"
+ },
+ {
+  "KODE_MATKUL": "CSCE604271",
+  "KODE_PRASYARAT": "CSCM603154"
+ },
+ {
+  "KODE_MATKUL": "CSCE604271",
+  "KODE_PRASYARAT": "CSGE602022"
+ },
+ {
+  "KODE_MATKUL": "CSCE604174",
+  "KODE_PRASYARAT": "CSGE602070"
+ },
+ {
+  "KODE_MATKUL": "CSCE604230",
+  "KODE_PRASYARAT": "CSCM602013"
+ },
+ {
+  "KODE_MATKUL": "CSCE604230",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSCE604133",
+  "KODE_PRASYARAT": "CSGE603130"
+ },
+ {
+  "KODE_MATKUL": "CSCE604038",
+  "KODE_PRASYARAT": "CSGE603130"
+ },
+ {
+  "KODE_MATKUL": "CSCE604258",
+  "KODE_PRASYARAT": "CSCM601252"
+ },
+ {
+  "KODE_MATKUL": "CSCE604258",
+  "KODE_PRASYARAT": "CSGE601020"
+ },
+ {
+  "KODE_MATKUL": "CSCE604156",
+  "KODE_PRASYARAT": "CSCM603154"
+ },
+ {
+  "KODE_MATKUL": "CSCE604021",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSCE604045",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSCE604131",
+  "KODE_PRASYARAT": "CSGE601011"
+ },
+ {
+  "KODE_MATKUL": "CSCE604131",
+  "KODE_PRASYARAT": "CSGE602070"
+ },
+ {
+  "KODE_MATKUL": "CSCE604078",
+  "KODE_PRASYARAT": "CSCM603154"
+ },
+ {
+  "KODE_MATKUL": "CSCE604172",
+  "KODE_PRASYARAT": "CSCM603154"
+ },
+ {
+  "KODE_MATKUL": "CSCE604243",
+  "KODE_PRASYARAT": "CSGE601010"
+ },
+ {
+  "KODE_MATKUL": "CSCE604243",
+  "KODE_PRASYARAT": "CSGE601011"
+ },
+ {
+  "KODE_MATKUL": "CSCE604243",
+  "KODE_PRASYARAT": "CSCM602013"
+ },
+ {
+  "KODE_MATKUL": "CSCE604235",
+  "KODE_PRASYARAT": "CSGE603130"
+ },
+ {
+  "KODE_MATKUL": "CSCE604123",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSCE604226",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSCE604222",
+  "KODE_PRASYARAT": "CSGE601010"
+ },
+ {
+  "KODE_MATKUL": "CSCE604222",
+  "KODE_PRASYARAT": "CSGE601020"
+ },
+ {
+  "KODE_MATKUL": "CSCE604229",
+  "KODE_PRASYARAT": "CSCM601213"
+ },
+ {
+  "KODE_MATKUL": "CSCE604229",
+  "KODE_PRASYARAT": "CSCM602055"
+ },
+ {
+  "KODE_MATKUL": "CSCE604229",
+  "KODE_PRASYARAT": "CSGE601021"
+ },
+ {
+  "KODE_MATKUL": "CSCE604229",
+  "KODE_PRASYARAT": "CSGE602012"
+ },
+ {
+  "KODE_MATKUL": "CSCE604227",
+  "KODE_PRASYARAT": "CSCM602055"
+ },
+ {
+  "KODE_MATKUL": "CSCE604227",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSCE604032",
+  "KODE_PRASYARAT": "CSGE603130"
+ },
+ {
+  "KODE_MATKUL": "CSCE604037",
+  "KODE_PRASYARAT": "CSGE602070"
+ },
+ {
+  "KODE_MATKUL": "CSCE604037",
+  "KODE_PRASYARAT": "CSGE603130"
+ },
+ {
+  "KODE_MATKUL": "CSCE604183",
+  "KODE_PRASYARAT": "CSGE602022"
+ },
+ {
+  "KODE_MATKUL": "CSCE604031",
+  "KODE_PRASYARAT": "CSCM602241"
+ },
+ {
+  "KODE_MATKUL": "CSCE604126",
+  "KODE_PRASYARAT": "CSCM603125"
+ },
+ {
+  "KODE_MATKUL": "CSCE604212",
+  "KODE_PRASYARAT": "CSCM601213"
+ },
+ {
+  "KODE_MATKUL": "CSCE604212",
+  "KODE_PRASYARAT": "CSGE602012"
+ },
+ {
+  "KODE_MATKUL": "CSCE604225",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSCE604111",
+  "KODE_PRASYARAT": "CSCM602013"
+ },
+ {
+  "KODE_MATKUL": "CSCE604254",
+  "KODE_PRASYARAT": "CSCM603154"
+ },
+ {
+  "KODE_MATKUL": "CSCE604036",
+  "KODE_PRASYARAT": "CSGE601010"
+ },
+ {
+  "KODE_MATKUL": "CSCE604036",
+  "KODE_PRASYARAT": "CSGE601011"
+ },
+ {
+  "KODE_MATKUL": "CSCE604232",
+  "KODE_PRASYARAT": "CSCM601252"
+ },
+ {
+  "KODE_MATKUL": "CSCE604232",
+  "KODE_PRASYARAT": "CSGE603130"
+ },
+ {
+  "KODE_MATKUL": "CSCE604151",
+  "KODE_PRASYARAT": "CSCM601252"
+ },
+ {
+  "KODE_MATKUL": "CSCE604028",
+  "KODE_PRASYARAT": "CSCM603125"
+ },
+ {
+  "KODE_MATKUL": "CSCE604128",
+  "KODE_PRASYARAT": "CSCM602241"
+ },
+ {
+  "KODE_MATKUL": "CSCE604128",
+  "KODE_PRASYARAT": "CSGE602040"
+ },
+ {
+  "KODE_MATKUL": "CSCE604179",
+  "KODE_PRASYARAT": "CSCM603154"
+ },
+ {
+  "KODE_MATKUL": "CSCE604135",
+  "KODE_PRASYARAT": "CSGE603130"
+ }
+],
+"PRASYARAT_SKS":[
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "PRASYARAT_SKS": 100
+ },
+ {
+  "KODE_MATKUL": "CSGE614093",
+  "PRASYARAT_SKS": 100
+ },
+ {
+  "KODE_MATKUL": "CSCE604029",
+  "PRASYARAT_SKS": 100
+ }
+],
+"EVALUASI":[
+ {
+  "KODE_MATKUL": "CSGE602012",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE602012",
+  "METODE_EVALUASI": "Diskusi"
+ },
+ {
+  "KODE_MATKUL": "CSGE602012",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCM603117",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCM603117",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSGE602070",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE602070",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSGE601020",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE601020",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSGE601020",
+  "METODE_EVALUASI": "Demo"
+ },
+ {
+  "KODE_MATKUL": "CSGE601021",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE601021",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSGE601021",
+  "METODE_EVALUASI": "Demo"
+ },
+ {
+  "KODE_MATKUL": "CSCM603142",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCM603142",
+  "METODE_EVALUASI": "Tugas lab"
+ },
+ {
+  "KODE_MATKUL": "CSCM603142",
+  "METODE_EVALUASI": "Proyek pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCM603142",
+  "METODE_EVALUASI": "Demo"
+ },
+ {
+  "KODE_MATKUL": "CSCM603154",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCM603154",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCM603154",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSGE601012",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE601012",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCM601213",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCM601213",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSGE603130",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE603130",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "METODE_EVALUASI": "Presentasi"
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "METODE_EVALUASI": "Dokumen Laporan"
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "METODE_EVALUASI": "Penilaian Penyelia"
+ },
+ {
+  "KODE_MATKUL": "CSGE614093",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE614093",
+  "METODE_EVALUASI": "Diskusi Group"
+ },
+ {
+  "KODE_MATKUL": "CSGE614093",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "UIGE600004",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "UIGE600004",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "UIGE600003",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "UIGE600007",
+  "METODE_EVALUASI": "Tugas Kelompok"
+ },
+ {
+  "KODE_MATKUL": "UIGE600007",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE601010",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE601010",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSGE601011",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE601011",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSGE603091",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSGE603091",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSGE602022",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE602022",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCM602223",
+  "METODE_EVALUASI": "Tugas lab"
+ },
+ {
+  "KODE_MATKUL": "CSCM602223",
+  "METODE_EVALUASI": "Presentasi"
+ },
+ {
+  "KODE_MATKUL": "CSGE602023",
+  "METODE_EVALUASI": "Tugas lap"
+ },
+ {
+  "KODE_MATKUL": "CSGE602023",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCM601252",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCM601252",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCM601150",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCM601150",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "METODE_EVALUASI": "Individual Review"
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "METODE_EVALUASI": "Presentasi"
+ },
+ {
+  "KODE_MATKUL": "CSCM603125",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCM603125",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSGE602024",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE602024",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCM602055",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCM602055",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCM602013",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCM602013",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSGE602040",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSGE602040",
+  "METODE_EVALUASI": "Proyek Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCM602241",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCM602241",
+  "METODE_EVALUASI": "Tugas Lab"
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "METODE_EVALUASI": "Dokumen Laporan"
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "METODE_EVALUASI": "Evaluasi Pembimbing"
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "METODE_EVALUASI": "Presentasi"
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "METODE_EVALUASI": "Dokumen Laporan"
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "METODE_EVALUASI": "Evaluasi Pembimbing"
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "METODE_EVALUASI": "Presentasi"
+ },
+ {
+  "KODE_MATKUL": "CSIE604274",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSIE604274",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604271",
+  "METODE_EVALUASI": "Tugas Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604271",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604174",
+  "METODE_EVALUASI": "Tugas Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604230",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604230",
+  "METODE_EVALUASI": "Proyek"
+ },
+ {
+  "KODE_MATKUL": "CSCE604133",
+  "METODE_EVALUASI": "Tugas Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604133",
+  "METODE_EVALUASI": "Proyek"
+ },
+ {
+  "KODE_MATKUL": "CSCE604038",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604038",
+  "METODE_EVALUASI": "Proyek Akhir"
+ },
+ {
+  "KODE_MATKUL": "CSCE604258",
+  "METODE_EVALUASI": "Tugas Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604258",
+  "METODE_EVALUASI": "Capture The Flag"
+ },
+ {
+  "KODE_MATKUL": "CSCE604156",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604156",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604021",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604045",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604131",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604131",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604078",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604078",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604172",
+  "METODE_EVALUASI": "Proyek Akhir"
+ },
+ {
+  "KODE_MATKUL": "CSCE604172",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604243",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604243",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604235",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604235",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604123",
+  "METODE_EVALUASI": "Tugas Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604123",
+  "METODE_EVALUASI": "Proyek"
+ },
+ {
+  "KODE_MATKUL": "CSCE604123",
+  "METODE_EVALUASI": "Presentasi"
+ },
+ {
+  "KODE_MATKUL": "CSCE604123",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604226",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604222",
+  "METODE_EVALUASI": "Proyek"
+ },
+ {
+  "KODE_MATKUL": "CSCE604222",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604229",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604229",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604227",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604227",
+  "METODE_EVALUASI": "Proyek"
+ },
+ {
+  "KODE_MATKUL": "CSCE604032",
+  "METODE_EVALUASI": "Tugas Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604032",
+  "METODE_EVALUASI": "Proyek"
+ },
+ {
+  "KODE_MATKUL": "CSCE604037",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604037",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604183",
+  "METODE_EVALUASI": "Tugas Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604183",
+  "METODE_EVALUASI": "Presentasi Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604183",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604031",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604031",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604126",
+  "METODE_EVALUASI": "Tugas Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604126",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604212",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604212",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604225",
+  "METODE_EVALUASI": "Kegiatan Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604111",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604111",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604254",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604254",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604036",
+  "METODE_EVALUASI": "Tugas Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604036",
+  "METODE_EVALUASI": "Proyek Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604232",
+  "METODE_EVALUASI": "Tugas Laboratorium"
+ },
+ {
+  "KODE_MATKUL": "CSCE604232",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604151",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604151",
+  "METODE_EVALUASI": "Tugas Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604028",
+  "METODE_EVALUASI": "Praktikum"
+ },
+ {
+  "KODE_MATKUL": "CSCE604028",
+  "METODE_EVALUASI": "Proyek"
+ },
+ {
+  "KODE_MATKUL": "CSCE604028",
+  "METODE_EVALUASI": "Studi Kasus"
+ },
+ {
+  "KODE_MATKUL": "CSIE604290",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSIE604290",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604128",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604128",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604179",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604179",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604135",
+  "METODE_EVALUASI": "Tugas Pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCE604135",
+  "METODE_EVALUASI": "Tugas Kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604135",
+  "METODE_EVALUASI": "Ujian"
+ },
+ {
+  "KODE_MATKUL": "CSCE604029",
+  "METODE_EVALUASI": "Tugas"
+ },
+ {
+  "KODE_MATKUL": "CSCE604029",
+  "METODE_EVALUASI": "Ujian"
+ }
+],
+"WORKSHOP":[
+ {
+  "KODE_MATKUL": "CSCM603117",
+  "WORKSHOP": "Latihan dengan pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSGE602070",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSGE601020",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSGE601021",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCM603142",
+  "WORKSHOP": "Lab Komputer untuk mengerjakan Latihan pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCM603154",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSGE603130",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "WORKSHOP": "Bergantung dengan jenis pekerjaan"
+ },
+ {
+  "KODE_MATKUL": "CSGE603091",
+  "WORKSHOP": "Lab Komputer untuk membantu penelitian mini"
+ },
+ {
+  "KODE_MATKUL": "CSGE602022",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCM602223",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSGE602023",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCM601252",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCM601150",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCM603125",
+  "WORKSHOP": "Lab Komputer untuk membuat rancangan dasar PL"
+ },
+ {
+  "KODE_MATKUL": "CSGE602024",
+  "WORKSHOP": "Lab Komputer untuk rancangan UI\/UX"
+ },
+ {
+  "KODE_MATKUL": "CSCM602055",
+  "WORKSHOP": "Lab Komputer untuk tugas pemrograman"
+ },
+ {
+  "KODE_MATKUL": "CSCM602013",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSGE602040",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCM602241",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "WORKSHOP": "Lab Komputer untuk pemrograman dan penelitian"
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "WORKSHOP": "Lab Komputer untuk pemrograman dan penelitian"
+ },
+ {
+  "KODE_MATKUL": "CSIE604274",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604271",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604174",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604230",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604133",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604038",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604258",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604156",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604021",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604045",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604131",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604078",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604172",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604243",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604235",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604123",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604226",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604222",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604229",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604227",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604032",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604037",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604183",
+  "WORKSHOP": "Lab Komputer untuk rancangan proyek kelompok"
+ },
+ {
+  "KODE_MATKUL": "CSCE604031",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604126",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604212",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604225",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604111",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604254",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604036",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604232",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604151",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604028",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604128",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604179",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604135",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ },
+ {
+  "KODE_MATKUL": "CSCE604029",
+  "WORKSHOP": "Praktikum Pemrograman di Lab"
+ }
+],
+"CPL":[
+ {
+  "KODE_MATKUL": "CSGE602012",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCM603117",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE602070",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSGE601020",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSGE601021",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCM603142",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCM603154",
+  "CPL": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM603154",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSGE601012",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCM601213",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE603130",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "CPL": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "CPL": 4
+ },
+ {
+  "KODE_MATKUL": "CSGE604097",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSGE614093",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "CSGE614093",
+  "CPL": 3
+ },
+ {
+  "KODE_MATKUL": "UIGE600004",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "UIGE600003",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "UIGE600007",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "UIGE600007",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSGE601010",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE601011",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE603091",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "CSGE603091",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSGE603091",
+  "CPL": 3
+ },
+ {
+  "KODE_MATKUL": "CSGE602022",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSGE602022",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCM602223",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCM602223",
+  "CPL": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM602223",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSGE602023",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCM601252",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCM601150",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "CPL": 3
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "CPL": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM603228",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCM603125",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "CSCM603125",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCM603125",
+  "CPL": 4
+ },
+ {
+  "KODE_MATKUL": "CSCM603125",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSGE602024",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "CSGE602024",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSGE602024",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCM602055",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCM602013",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE602040",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCM602241",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "CPL": 4
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSGE604099",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "CPL": 4
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSGE604098",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSIE604274",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604271",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCE604271",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604174",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604230",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCE604230",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604133",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCE604133",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604038",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604258",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604156",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604021",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCE604021",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604045",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604131",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604172",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604243",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604235",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604123",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604226",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604222",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604229",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604227",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604032",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCE604032",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604037",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604183",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCE604183",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604031",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604126",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604212",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604225",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604111",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604254",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCE604254",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604036",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSCE604036",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604232",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604151",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604028",
+  "CPL": 4
+ },
+ {
+  "KODE_MATKUL": "CSCE604028",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSIE604290",
+  "CPL": 1
+ },
+ {
+  "KODE_MATKUL": "CSIE604290",
+  "CPL": 2
+ },
+ {
+  "KODE_MATKUL": "CSIE604290",
+  "CPL": 3
+ },
+ {
+  "KODE_MATKUL": "CSCE604128",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604179",
+  "CPL": 5
+ },
+ {
+  "KODE_MATKUL": "CSCE604135",
+  "CPL": 6
+ },
+ {
+  "KODE_MATKUL": "CSCE604029",
+  "CPL": 6
+ }
+]
+}
